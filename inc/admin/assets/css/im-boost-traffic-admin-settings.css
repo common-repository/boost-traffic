@@ -1,0 +1,33 @@
+/* im styles*/
+.im-wraper{text-align: center;}
+.im-troublesh{text-align:left;}
+.im-heading{text-align:center;}
+/* Option page*/
+.options-im-boost-traffic .form-table tr { background: none repeat scroll 0 0 #F9F9F9;border: 1px solid #E4E4E4; margin: 0;padding-left: 3px;  }
+.options-im-boost-traffic .form-table td p { color: #AAA; font-size: 10px;}
+.options-im-boost-traffic .form-table label { font-size: 12px;}
+.options-im-boost-traffic .form-table input {padding: 5px;resize: none;}
+.options-im-boost-traffic .form-table input[type="checkbox"]{ width: auto;}
+/*TABS*/
+.im-tab{ background: #FFF; padding: 15px;height: auto;float: left;width: calc( 100% - 30px);}
+.options-im-boost-traffic .im-boost-traffic-container{  width: 100%;}
+.options-im-boost-traffic .form-table th{ padding-left: 10px; width: 300px;position:relative;}
+.options-im-boost-traffic .submitbutton{margin-top:20px;}
+.im-tab.active {  display: block;}
+.im-tab { display: none;}
+.im-demo-image{text-align: center;}
+#im-list-form-update{ width: auto; line-height: unset;}
+.im-loading-img-wrapper{ position: absolute; width: 94%;background: #a29090;text-align: center; display: none;}
+.im-connected{ background: #279B27!important; color: #fff!important; font-weight: bold; padding: 5px 20px; font-size: 18px; display: inline; display: none;}
+.im-disconnected{ background: #FF0000!important; color: #fff!important; font-weight: bold; padding: 5px 20px; font-size: 18px; display: inline; cursor: pointer; display: none;}
+.im-boost-iframe{ width: 100%; height: 800px;}
+#general{ padding:0px; border: 15px solid #87e6ff;}
+.im-boost-traffic-container .nav-tab{ margin: 0px; border: none;}
+.im-boost-traffic-container .nav-tab-active{ background: #87e6ff; color: #2D426B;}
+#im-admin-tabs{ border-bottom: none}
+.im-boost-traffic-button, .im-boost-traffic-button:visited,.im-boost-traffic-button:active{ background: #FB5895 !important;border-color: #FB5895 !important; color: #fff !important;text-decoration: none !important;text-shadow: none!important;box-shadow: none !important;padding: 10px 30px;border-radius: 30px;font-weight: bold; font-size:15px; display: inline-block;  }
+.im-boost-traffic-button:hover{background:#FB5895 !important; border-color: #FB5895 !important; }
+.im-boost-traffic-copyright { background: #2EB4CE;color: #fff;font-weight: bold;padding: 5px;}
+.im-boost-traffic-general-template, .im-boost-traffic-troubleshoot-template{ background:#87e6ff;}
+.im-boost-traffic-promo span strong{color: #000;font-size:16px;padding: 0px 10px;display: block;}
+#im-boost-traffic-container-market ul li a{color:#2EB4CE; }
